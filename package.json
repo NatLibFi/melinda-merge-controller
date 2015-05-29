@@ -1,0 +1,19 @@
+{
+  "name": "melinda-merge-controller",
+  "version": "0.0.1",
+  "description": "Integrates bunch of modules to handle record merging in Melinda union catalogue",
+  "main": "lib/MelindaMergeController.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pasi Tuominen <pasi.e.tuominen@helsinki.fi>",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^2.1.3",
+    "q": "^1.2.0",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "q": "^1.3.0"
+  }
+}

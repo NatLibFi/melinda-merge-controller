@@ -1,0 +1,2 @@
+runner.js can be used to test merges on data without actually merging them. This is useful for seeing what kind of errors there are and if some error is so common that it should be handled better.
+
