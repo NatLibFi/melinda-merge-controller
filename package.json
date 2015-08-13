@@ -1,6 +1,6 @@
 {
   "name": "melinda-merge-controller",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Integrates bunch of modules to handle record merging in Melinda union catalogue",
   "main": "lib/MelindaMergeController.js",
   "scripts": {
