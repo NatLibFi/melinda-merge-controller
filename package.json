@@ -11,8 +11,9 @@
   "dependencies": {
     "jquery": "^2.1.3",
     "marc-record-merge": "^1.0.0",
-    "marc-record-similarity": "^1.0.0",
     "marc-record-merge-melindautils": "git://github.com/NatLibFi/marc-record-merge-melindautils",
+    "marc-record-rank": "file:../../../../../tmp/npm-6698-38b11cf2/git-cache-20998017a8ed/e23210a8d8b1d53ec162278f3d92c0834e8581d0",
+    "marc-record-similarity": "^1.0.0",
     "q": "^1.2.0",
     "underscore": "^1.8.3"
   },
