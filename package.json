@@ -2,12 +2,22 @@
   "name": "melinda-merge-controller",
   "version": "1.0.4",
   "description": "Integrates bunch of modules to handle record merging in Melinda union catalogue",
+  "homepage": "https://github.com/natlibfi/melinda-merge-controller",
+  "bugs": {
+    "url": "https://github.com/natlibfi/melinda-merge-controller/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:natlibfi/melinda-merge-controller.git"
+  },
+  "license": "AGPL-3.0+",
+  "author": {
+    "name": "The National Library of Finland"
+  },
   "main": "lib/MelindaMergeController.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Pasi Tuominen <pasi.e.tuominen@helsinki.fi>",
-  "license": "ISC",
   "dependencies": {
     "jquery": "^2.1.3",
     "marc-record-merge": "^1.0.0",

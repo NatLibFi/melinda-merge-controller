@@ -1,7 +1,14 @@
-# melinda-merge-controller
+# Integrates bunch of modules to handle record checking and merging in Melinda union catalogue
 
-Integrates bunch of modules to handle record checking and merging in Melinda union catalogue.
+**DEPRECATED: See Melinda deduplication repositories:**
 
+https://github.com/natlibfi/melinda-deduplication-validate
+
+https://github.com/NatLibFi/melinda-deduplication-merge
+
+https://github.com/NatLibFi/melinda-deduplication-datastore
+
+https://github.com/NatLibFi/melinda-deduplication-listener
 
 ## Installation
 
@@ -41,4 +48,13 @@ melindaMerger.mergeRecords(record1, record2).then(function(result) {
 		}
 	*/
 })
+```
+
 The records are in marc-record-js format. There is some additional metadata about what fields of the source records have been used to create the mergedRecord.
+
+## License and copyright
+
+Copyright (c) 2015, 2017 **University Of Helsinki (The National Library Of Finland)**
+
+This project's source code is licensed under the terms of **GNU Affero General Public License Version 3** or any later version.
+
